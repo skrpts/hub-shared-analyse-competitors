@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "e30884c7-8926-482a-bd39-9c0d6c4664c1"
+name: "analyse-competitors"
+display_name: "Analyse Competitors"
+description: "Researches competitor positioning, messaging, and tactical approach"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-analyse-competitors"
+category: "shared"
+tags:
+  - "shared"
+  - "prompt"
+contents:
+  skills: 0
+  prompts: 1
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
