@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "e30884c7-8926-482a-bd39-9c0d6c4664c1"
+id: "20626cf9-378d-45cd-992a-1fc8fe512a26"
 name: "analyse-competitors"
 display_name: "Analyse Competitors"
 description: "Researches competitor positioning, messaging, and tactical approach"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
