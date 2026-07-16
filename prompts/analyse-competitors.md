@@ -1,7 +1,7 @@
 ---
 type: prompt
 id: analyse-competitors
-title: "Analyse Competitors"
+title: "Analyze Competitors"
 description: "Researches competitor positioning, messaging, and tactical approach"
 tags: [Production, Marketing, Competitive]
 
@@ -16,7 +16,7 @@ Drives the competitive analysis skill.
 
 ## Prompt
 
-You are a competitive intelligence analyst. Analyse the competitors described below.
+You are a competitive intelligence analyst. Analyze the competitors described below.
 
 ### Competitor Information
 
