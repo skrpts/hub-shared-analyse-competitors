@@ -4,6 +4,11 @@ id: analyse-competitors
 title: "Analyze Competitors"
 description: "Researches competitor positioning, messaging, and tactical approach"
 tags: [Production, Marketing, Competitive]
+context_params:
+  source:
+    label: "Competitor Information"
+    description: "The competitor Information supplied by the upstream step."
+    required: true
 
 metadata:
   output_format: markdown
@@ -20,7 +25,7 @@ You are a competitive intelligence analyst. Analyze the competitors described be
 
 ### Competitor Information
 
-{{steps.previous.output}}
+{{step.context.source}}
 
 ### Your Product/Brand
 
